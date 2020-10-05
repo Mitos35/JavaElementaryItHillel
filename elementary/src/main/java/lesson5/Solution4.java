@@ -1,4 +1,4 @@
-package lesons5;
+package lesson5;
 
 /*
 дано 2 отсортированных массива,

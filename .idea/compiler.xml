@@ -15,6 +15,7 @@
       <module name="myExample" target="1.5" />
       <module name="myExamples" target="14" />
       <module name="myProject" target="14" />
+      <module name="myWork" target="1.5" />
       <module name="stepik" target="14" />
     </bytecodeTargetLevel>
   </component>

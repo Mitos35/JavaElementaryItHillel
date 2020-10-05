@@ -1,4 +1,4 @@
-package lesons5;
+package lesson5;
 
 /*
 Дан массив и входящий параметр k.

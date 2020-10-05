@@ -1,4 +1,4 @@
-package lesons5;
+package lesson5;
 
 /*
 дан массив от 1 до n (не больше 100).
